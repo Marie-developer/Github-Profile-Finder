@@ -10,9 +10,7 @@ Work With Github Api
 ![App Screenshot](https://i.imgur.com/XlpvFtN.png)
 
 ![App Screenshot](https://i.imgur.com/jgAO6RH.png)
-## Authors
 
-- [@MabeOff](https://github.com/MabeOff)
 - [@Prxsphy](https://github.com/Prxsphy)
 
 
